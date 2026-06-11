@@ -25,3 +25,10 @@ python3 test/checker.py <executable> <input_file> <output_file> <expected_output
 ```
 python3 test/grader.py <executable-path> <test-cases-path>
 ```
+
+* Installation
+  Clone the repository to your local environment:
+```bash
+git clone [https://github.com/kemal-onal/schedsim.git](https://github.com/kemal-onal/schedsim.git)
+cd schedsim
+```
